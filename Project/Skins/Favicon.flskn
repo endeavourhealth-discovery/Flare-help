@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="Component"
+  Comment="HTML5 Favicon skin"
+  ComponentType="Favicon">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="DDS logo.PNG">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</Resource>
+    </Resources>
+  </Stylesheet>
+  <Master
+    Image="DDS logo.PNG" />
+  <Browser>
+    <SmallFavicon
+      Image="DDS logo.PNG"
+      SizePx="31 px" />
+    <MediumFavicon
+      Image="DDS logo.PNG"
+      SizePx="31 px" />
+    <LargeFavicon
+      Image="DDS logo.PNG"
+      SizePx="31 px" />
+  </Browser>
+  <ShortcutIcon
+    Image="DDS logo.PNG" />
+  <Touch>
+    <TouchIcon
+      Image="(none)"
+      SizePx="" />
+  </Touch>
+  <Windows>
+    <MicrosoftSmallTile
+      Image="(none)" />
+    <MicrosoftMediumTile
+      Image="(none)" />
+    <MicrosoftWideTile
+      Image="(none)" />
+    <MicrosoftLargeTile
+      Image="(none)" />
+  </Windows>
+  <Strings />
+</CatapultSkin>

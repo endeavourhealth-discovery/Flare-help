@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/old sign in page.png" />
+    <Link
+      Url="Content/Resources/Images/old one time code.png" />
+    <Link
+      Url="Content/Resources/Images/lightbulb.png" />
+    <Link
+      Url="Content/Resources/Images/2 factor auth.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/old sign in page.png" />
+    <Link
+      Url="Content/Resources/Images/old one time code.png" />
+    <Link
+      Url="Content/Resources/Images/lightbulb.png" />
+    <Link
+      Url="Content/Resources/Images/2 factor auth.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

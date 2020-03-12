@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="../Discovery Data Service/Content/Resources/Stylesheets/styles.css" />
+    <Link
+      Url="../Discovery Data Service/Content/Resources/Scripts/common.js" />
+    <Link
+      Url="../Discovery Data Service/Content/Resources/Scripts/css.js" />
+    <Link
+      Url="../Discovery Data Service/Content/Resources/Scripts/standardista-table-sorting.js" />
+    <Link
+      Url="https://kit.fontawesome.com/2e59dfb20f.js" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/fontawesome.css" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/all.css" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/solid.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="../Discovery Data Service/Content/Resources/Stylesheets/styles.css" />
+    <Link
+      Url="../Discovery Data Service/Content/Resources/Scripts/common.js" />
+    <Link
+      Url="../Discovery Data Service/Content/Resources/Scripts/css.js" />
+    <Link
+      Url="../Discovery Data Service/Content/Resources/Scripts/standardista-table-sorting.js" />
+    <Link
+      Url="https://kit.fontawesome.com/2e59dfb20f.js" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/fontawesome.css" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/all.css" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/solid.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="../Discovery Data Service/Content/Resources/Stylesheets/styles.css" />
+    <Url
+      Source="file://content/Resources/Font Awesome/css/fontawesome.css" />
+    <Url
+      Source="file://content/Resources/Font Awesome/css/all.css" />
+    <Url
+      Source="file://content/Resources/Font Awesome/css/solid.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

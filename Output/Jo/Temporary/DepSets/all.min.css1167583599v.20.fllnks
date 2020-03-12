@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-brands-400.eot" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-brands-400.woff2" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-brands-400.woff" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-brands-400.ttf" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-brands-400.svg" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-duotone-900.eot" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-duotone-900.woff2" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-duotone-900.woff" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-duotone-900.ttf" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-duotone-900.svg" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-light-300.eot" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-light-300.woff2" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-light-300.woff" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-light-300.ttf" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-light-300.svg" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-regular-400.eot" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-regular-400.woff2" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-regular-400.woff" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-regular-400.ttf" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-regular-400.svg" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-solid-900.eot" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-solid-900.woff2" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-solid-900.woff" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-solid-900.ttf" />
+    <Link
+      Url="Content/Resources/Font Awesome/webfonts/fa-solid-900.svg" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

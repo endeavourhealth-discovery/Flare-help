@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="HomePage"
+  FileSearchable="true"
+  MasterPage="file:///C:/Users/Jo/Documents/My Projects/DDS Help1/Content/Resources/MasterPages/HomePage.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Content/Apps/eds-dsa-manager/data-sharing-manager.htm" />
+    <Link
+      Url="Content/Apps/eds-user-manager/User Manager.htm" />
+    <Link
+      Url="Content/Apps/Information_Model_Manager/Information Model Manager.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Content/Apps/eds-dsa-manager/data-sharing-manager.htm" />
+    <Link
+      Url="Content/Apps/eds-user-manager/User Manager.htm" />
+    <Link
+      Url="Content/Apps/Information_Model_Manager/Information Model Manager.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Content/Resources/Scripts/page-toc.js" />
+    <Link
+      Url="https://kit.fontawesome.com/2e59dfb20f.js" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/fontawesome.css" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/all.css" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/solid.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://learning-health.co.uk/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Content/Resources/Scripts/page-toc.js" />
+    <Link
+      Url="https://kit.fontawesome.com/2e59dfb20f.js" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/fontawesome.css" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/all.css" />
+    <Link
+      Url="file://content/Resources/Font Awesome/css/solid.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://learning-health.co.uk/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.Year" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Url
+      Source="file://content/Resources/Font Awesome/css/fontawesome.css" />
+    <Url
+      Source="file://content/Resources/Font Awesome/css/all.css" />
+    <Url
+      Source="file://content/Resources/Font Awesome/css/solid.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Home.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/Data-Sharing-Manager.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/my-sharing.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/regions.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/organisations.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/Services.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/Data-processing-agreements.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/Data-sharing-agreements.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/Data-sets.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/Cohorts.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/projects.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/reporting.htm" />
+    <Link
+      Url="Content/apps/eds-dsa-manager/Audit.htm" />
+    <Link
+      Url="Content/apps/eds-user-manager/User Manager.htm" />
+    <Link
+      Url="Content/D_More Information/FAQs.htm" />
+    <Link
+      Url="Content/D_More Information/PDF Downloads.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2018 r2 Generated HTML5 - Top Navigation.fltar" Date="2020-03-12T11:48:28.7324734+00:00">
+    <Messages>Compiling target HTML5 - Top Navigation...
+Removing previously generated content...
+Loading skin info...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Generating Glossary...
+Collecting source files...
+Processing source files...
+Image "PDF Cover.png" regenerated for "" medium: Resources\Images\PDF Cover.png
+Processing CSS: Resources\Stylesheets\flexboxgrid.min.css...
+Processing CSS: Resources\Stylesheets\MainStyles.css...
+Processing CSS: Resources\Stylesheets\nomenu.css...
+Processing CSS: Resources\Stylesheets\styles.css...
+Missing linked source file: C:\Users\Jo\Documents\My Projects\DDS Help1\Content\Resources\Images\g6.png
+Missing linked source file: C:\Users\Jo\Documents\My Projects\DDS Help1\Content\Resources\Images\g7.png
+Missing linked source file: C:\Users\Jo\Documents\My Projects\DDS Help1\Content\Resources\Images\Ripple_icon.png
+Processing CSS: Resources\Stylesheets\StylesForHomePage.css...
+Generating output files...
+Processing topic: home.htm...
+Applying master page HomePage.flmsp...
+Missing linked stylesheet file://content/Resources/Font Awesome/css/solid.css
+Missing linked stylesheet file://content/Resources/Font Awesome/css/all.css
+Missing linked stylesheet file://content/Resources/Font Awesome/css/fontawesome.css
+Missing linked source file: C:\Users\Jo\Documents\My Projects\DDS Help1\Content\Resources\Scripts\page-toc.js
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated home.htm
+Processing topic: Apps\eds-dsa-manager\data-sharing-manager.htm...
+Applying master page HomePage.flmsp...
+Missing linked source file: C:\Users\Jo\Documents\My Projects\DDS Help1\Content\Resources\Scripts\page-toc.js
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\data-sharing-manager.htm
+Processing topic: Apps\eds-dsa-manager\my-sharing.htm...
+Applying master page OtherTopics.flmsp...
+Missing linked stylesheet file://content/Resources/Font Awesome/css/solid.css
+Missing linked stylesheet file://content/Resources/Font Awesome/css/all.css
+Missing linked stylesheet file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\my-sharing.htm
+Processing topic: Apps\eds-dsa-manager\regions.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\regions.htm
+Processing topic: Apps\eds-dsa-manager\organisations.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\organisations.htm
+Processing topic: Apps\eds-dsa-manager\Services.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\Services.htm
+Processing topic: Apps\eds-dsa-manager\data-processing-agreements.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\data-processing-agreements.htm
+Processing topic: Apps\eds-dsa-manager\data-sharing-agreements.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\data-sharing-agreements.htm
+Processing topic: Apps\eds-dsa-manager\data-sets.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\data-sets.htm
+Processing topic: Apps\eds-dsa-manager\cohorts.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\cohorts.htm
+Processing topic: Apps\eds-dsa-manager\projects.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\projects.htm
+Processing topic: Apps\eds-dsa-manager\reporting.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\reporting.htm
+Processing topic: Apps\eds-dsa-manager\audit.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\audit.htm
+Processing topic: Apps\eds-user-manager\User Manager.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-user-manager\User Manager.htm
+Processing topic: Apps\eds-dsa-manager\dsm-navigation.htm...
+Applying master page Popup.flmsp...
+Missing linked stylesheet file://content/Resources/Font Awesome/css/solid.css
+Missing linked stylesheet file://content/Resources/Font Awesome/css/all.css
+Missing linked stylesheet file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file:///C:/Users/Jo/Documents/My Projects/Discovery Data Service/Content/Resources/Stylesheets/styles.css
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\dsm-navigation.htm
+Processing topic: discovery-data-model.htm...
+Applying master page OtherTopicsFixedSideMenu.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated discovery-data-model.htm
+Processing topic: accessing-the-dds.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated accessing-the-dds.htm
+Processing topic: Apps\eds-dsa-manager\access-data-sharing-manager.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\eds-dsa-manager\access-data-sharing-manager.htm
+Processing topic: Apps\Information_Model_Manager\Information Model Manager.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Apps\Information_Model_Manager\Information Model Manager.htm
+Generating output skins...
+Generating synonyms file...
+Generating alias file...
+Generating final TOC...
+Generating language strings...
+Generating concept and keyword anchors in output files...
+Generating Index...
+Generating Concepts...
+Generating Template Topics...
+Generating Search.htm...
+Topic marked 'not searchable': Search.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css
+Link points outside project file://content/Resources/Font Awesome/css/all.css
+Link points outside project file://content/Resources/Font Awesome/css/solid.css
+Generated Search.htm
+Resolving links in output files...
+Generating Search Database...
+Writing search entry cache...
+Generating final output...
+Generated Default.htm
+Saving result set...
+Ignored Compiler Warnings: 4
+Output generated in 12 second(s).
+
+Done
+Publishing target HTML5 - Top Navigation...
+Connecting...
+Downloading log ...
+Uploading changed files...
+Uploading Content/home.htm... succeeded.
+Uploading Content/discovery-data-model.htm... succeeded.
+Uploading Content/Apps/eds-user-manager/User Manager.htm... succeeded.
+Uploading Resources/Scripts/require.config.js... succeeded.
+Uploading Data/Tocs/Master_Chunk0.js... succeeded.
+Uploading Data/Tocs/Master.js... succeeded.
+Uploading Data/SearchUrl_Chunk0.js... succeeded.
+Uploading Data/SearchTopic_Chunk0.js... succeeded.
+Uploading Data/SearchStem_Chunk0.js... succeeded.
+Uploading Data/SearchPhrase_Chunk1.js... succeeded.
+Uploading Data/SearchPhrase_Chunk0.js... succeeded.
+Uploading Data/Search.js... succeeded.
+Uploading Data/HelpSystem.xml... succeeded.
+Uploading Data/HelpSystem.js... succeeded.
+Uploading Default.mcwebhelp... succeeded.
+Uploading Content/Apps/eds-dsa-manager/access-data-sharing-manager.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/audit.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/cohorts.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/data-processing-agreements.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/data-sets.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/data-sharing-agreements.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/data-sharing-manager.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/dsm-navigation.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/my-sharing.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/organisations.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/projects.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/regions.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/reporting.htm... succeeded.
+Uploading Content/Apps/eds-dsa-manager/Services.htm... succeeded.
+Removing old files...
+Removing Services.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/Services.htm
+Recycling
+Removing reporting.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/reporting.htm
+Recycling
+Removing regions.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/regions.htm
+Recycling
+Removing projects.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/projects.htm
+Recycling
+Removing organisations.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/organisations.htm
+Recycling
+Removing my-sharing.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/my-sharing.htm
+Recycling
+Removing dsm-navigation.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/dsm-navigation.htm
+Recycling
+Removing data-sharing-manager.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/data-sharing-manager.htm
+Recycling
+Removing data-sharing-agreements.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/data-sharing-agreements.htm
+Recycling
+Removing data-sets.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/data-sets.htm
+Recycling
+Removing data-processing-agreements.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/data-processing-agreements.htm
+Recycling
+Removing cohorts.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/cohorts.htm
+Recycling
+Removing audit.htm
+Deleting: file:///C:/Users/Jo/Documents/My Projects/Git/website-help/Content/apps/eds-data-sharing-manager/audit.htm
+Recycling
+Removing access-data-sharing-manager.htm
+Uploading log ...
+Checking in: Content/home.htm
+Checking in: Content/discovery-data-model.htm
+Checking in: Content/Apps/eds-user-manager/User Manager.htm
+Checking in: Resources/Scripts/require.config.js
+Checking in: Data/Tocs/Master_Chunk0.js
+Checking in: Data/Tocs/Master.js
+Checking in: Data/SearchUrl_Chunk0.js
+Checking in: Data/SearchTopic_Chunk0.js
+Checking in: Data/SearchStem_Chunk0.js
+Checking in: Data/SearchPhrase_Chunk1.js
+Checking in: Data/SearchPhrase_Chunk0.js
+Checking in: Data/Search.js
+Checking in: Data/HelpSystem.xml
+Checking in: Data/HelpSystem.js
+Checking in: Default.mcwebhelp
+Adding: Content/Apps/eds-dsa-manager/access-data-sharing-manager.htm
+Checking in: Content/Apps/eds-dsa-manager/access-data-sharing-manager.htm
+Adding: Content/Apps/eds-dsa-manager/audit.htm
+Checking in: Content/Apps/eds-dsa-manager/audit.htm
+Adding: Content/Apps/eds-dsa-manager/cohorts.htm
+Checking in: Content/Apps/eds-dsa-manager/cohorts.htm
+Adding: Content/Apps/eds-dsa-manager/data-processing-agreements.htm
+Checking in: Content/Apps/eds-dsa-manager/data-processing-agreements.htm
+Adding: Content/Apps/eds-dsa-manager/data-sets.htm
+Checking in: Content/Apps/eds-dsa-manager/data-sets.htm
+Adding: Content/Apps/eds-dsa-manager/data-sharing-agreements.htm
+Checking in: Content/Apps/eds-dsa-manager/data-sharing-agreements.htm
+Adding: Content/Apps/eds-dsa-manager/data-sharing-manager.htm
+Checking in: Content/Apps/eds-dsa-manager/data-sharing-manager.htm
+Adding: Content/Apps/eds-dsa-manager/dsm-navigation.htm
+Checking in: Content/Apps/eds-dsa-manager/dsm-navigation.htm
+Adding: Content/Apps/eds-dsa-manager/my-sharing.htm
+Checking in: Content/Apps/eds-dsa-manager/my-sharing.htm
+Adding: Content/Apps/eds-dsa-manager/organisations.htm
+Checking in: Content/Apps/eds-dsa-manager/organisations.htm
+Adding: Content/Apps/eds-dsa-manager/projects.htm
+Checking in: Content/Apps/eds-dsa-manager/projects.htm
+Adding: Content/Apps/eds-dsa-manager/regions.htm
+Checking in: Content/Apps/eds-dsa-manager/regions.htm
+Adding: Content/Apps/eds-dsa-manager/reporting.htm
+Checking in: Content/Apps/eds-dsa-manager/reporting.htm
+Adding: Content/Apps/eds-dsa-manager/Services.htm
+Checking in: Content/Apps/eds-dsa-manager/Services.htm
+Checking in: HTML5 - Top Navigation.4.log.zip
+Pushed 12 bytes.
+Pushed 223872 bytes.
+Publish complete.
+Saving log to "C:\Users\Jo\Documents\My Projects\DDS Help1\Output\Jo\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry File="../../../Content/Resources/Stylesheets/styles.css" Message="Missing linked source file: C:\Users\Jo\Documents\My Projects\DDS Help1\Content\Resources\Images\g6.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/styles.css" Message="Missing linked source file: C:\Users\Jo\Documents\My Projects\DDS Help1\Content\Resources\Images\g7.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/styles.css" Message="Missing linked source file: C:\Users\Jo\Documents\My Projects\DDS Help1\Content\Resources\Images\Ripple_icon.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry Message="Missing linked stylesheet file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Missing linked source file: C:\Users\Jo\Documents\My Projects\DDS Help1\Content\Resources\Scripts\page-toc.js" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Missing linked source file: C:\Users\Jo\Documents\My Projects\DDS Help1\Content\Resources\Scripts\page-toc.js" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry Message="Missing linked stylesheet file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry Message="Missing linked stylesheet file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry File="../../../Content/Resources/MasterPages/Popup.flmsp" Message="Link points outside project file:///C:/Users/Jo/Documents/My Projects/Discovery Data Service/Content/Resources/Stylesheets/styles.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/Popup.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/Popup.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/Popup.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/fontawesome.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/all.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file://content/Resources/Font Awesome/css/solid.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+    </Warnings>
+    <Errors />
+</MadCapLog>

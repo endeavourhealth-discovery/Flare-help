@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="Testing and review"
+  Host="ftp.ergosoft.co.uk"
+  User="MyAccountId"
+  Password=""
+  Directory="Help"
+  Port="21"
+  ViewUrl="http://www.ergosoft.co.uk/Help/Content/home.htm"
+  Type="ftp"></CatapultDestination>
